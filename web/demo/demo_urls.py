@@ -2,7 +2,7 @@
 from django.urls import include, path
 
 # Project module
-from myproject.web.demo import views
+from web.demo import views
 
 
 urlpatterns = [
